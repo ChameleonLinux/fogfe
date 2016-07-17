@@ -3,7 +3,7 @@ This is utility to edit or create fog files.
 
 Look here:
 * [SimsModder](https://cos.ovh/sims-modder-1-0/)
-* [FogFE](https://cos.ovh/fog-file-editor-0.2/)
+* [FogFE](https://cos.ovh/fog-file-editor-0-2/)
 
 # Warning
 This utility is REALLY unstable. In best, the parser has no issues, but currently it does not support comments.
